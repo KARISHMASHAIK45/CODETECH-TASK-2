@@ -1,4 +1,4 @@
-PREDICTIVE ANALYSIS  USING MACHINE LEARNING
+# PREDICTIVE ANALYSIS  USING MACHINE LEARNING
 
 COMPANY: CODETECH IT SOLUTIONS
 
@@ -14,14 +14,14 @@ DURATION: 8 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-DESCRIPTION
+# DESCRIPTION
 
 
-🎯 Objective
+# 🎯 Objective
 The primary objective of this project is to analyze historical credit card client data and build a predictive model that can determine whether a customer will default on their payment in the next month. Accurate credit default prediction helps banks and financial institutions manage risk, improve lending strategies, and protect revenue.
 
 
-📁 Dataset
+# 📁 Dataset
 Name: UCI Credit Card Default Dataset
 
 Format: .xlsx (Excel), with an alternative CSV loading method included
@@ -35,7 +35,7 @@ Features: Includes demographic, financial, and historical repayment data such as
 This dataset is widely used for binary classification tasks and credit risk modeling.
 
 
-🧰 Tools & Technologies Used
+# 🧰 Tools & Technologies Used
 Tool	Purpose
 Python	Programming language for data science
 Pandas	Data manipulation and analysis
@@ -45,7 +45,7 @@ Matplotlib & Seaborn	Visualization libraries
 OpenPyXL	Read Excel files in .xlsx format
 
 
-💻 Platform
+# 💻 Platform
 Development Environment: Google Colab
 
 Dataset Source: Kaggle
@@ -53,7 +53,7 @@ Dataset Source: Kaggle
 Google Colab was used for its ease of setup, free access to computational resources, and seamless library management.
 
 
-🔑 Key Steps in the Pipeline
+# 🔑 Key Steps in the Pipeline
 Library Installation & Imports
 All necessary libraries were installed and imported for data loading, analysis, preprocessing, and modeling.
 
@@ -110,7 +110,7 @@ Predicted using a sample of the test set.
 Displayed both class predictions and probabilities for further interpretation.
 
 
-🌐 Applications
+# 🌐 Applications
 This project has various practical applications in:
 
 Banking and Finance: Assessing customer creditworthiness before loan approvals.
@@ -122,11 +122,11 @@ Data Science Education: Demonstrating a complete machine learning workflow—fro
 Model Prototyping: Serving as a starting point for deploying credit scoring models.
 
 
-✅ Conclusion
+# ✅ Conclusion
 This project demonstrates a full machine learning pipeline for binary classification using logistic regression. It shows how to clean and prepare data, handle missing values, scale and encode features, train a model, evaluate it with meaningful metrics, and visualize results. The final model offers interpretable output and lays the foundation for further experimentation or production deployment.
 
 
-  OUTPUT 
+  # OUTPUT 
 
 ![Image](https://github.com/user-attachments/assets/558c2634-176d-456c-8e49-ff08ed5f24e0)
 ![Image](https://github.com/user-attachments/assets/3bafc88c-8489-478e-b266-22b800fa7c09)
