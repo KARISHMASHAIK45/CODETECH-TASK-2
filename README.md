@@ -1,4 +1,4 @@
-#PREDICTIVE ANALYSIS  USING MACHINE LEARNING
+PREDICTIVE ANALYSIS  USING MACHINE LEARNING
 
 COMPANY: CODETECH IT SOLUTIONS
 
@@ -16,8 +16,10 @@ MENTOR: NEELA SANTOSH
 
 DESCRIPTION
 
+
 🎯 Objective
 The primary objective of this project is to analyze historical credit card client data and build a predictive model that can determine whether a customer will default on their payment in the next month. Accurate credit default prediction helps banks and financial institutions manage risk, improve lending strategies, and protect revenue.
+
 
 📁 Dataset
 Name: UCI Credit Card Default Dataset
@@ -32,6 +34,7 @@ Features: Includes demographic, financial, and historical repayment data such as
 
 This dataset is widely used for binary classification tasks and credit risk modeling.
 
+
 🧰 Tools & Technologies Used
 Tool	Purpose
 Python	Programming language for data science
@@ -41,12 +44,14 @@ Scikit-learn	Machine learning library for model building
 Matplotlib & Seaborn	Visualization libraries
 OpenPyXL	Read Excel files in .xlsx format
 
+
 💻 Platform
 Development Environment: Google Colab
 
 Dataset Source: Kaggle
 
 Google Colab was used for its ease of setup, free access to computational resources, and seamless library management.
+
 
 🔑 Key Steps in the Pipeline
 Library Installation & Imports
@@ -104,6 +109,7 @@ Predicted using a sample of the test set.
 
 Displayed both class predictions and probabilities for further interpretation.
 
+
 🌐 Applications
 This project has various practical applications in:
 
@@ -115,5 +121,16 @@ Data Science Education: Demonstrating a complete machine learning workflow—fro
 
 Model Prototyping: Serving as a starting point for deploying credit scoring models.
 
+
 ✅ Conclusion
 This project demonstrates a full machine learning pipeline for binary classification using logistic regression. It shows how to clean and prepare data, handle missing values, scale and encode features, train a model, evaluate it with meaningful metrics, and visualize results. The final model offers interpretable output and lays the foundation for further experimentation or production deployment.
+
+
+  OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/558c2634-176d-456c-8e49-ff08ed5f24e0)
+![Image](https://github.com/user-attachments/assets/3bafc88c-8489-478e-b266-22b800fa7c09)
+![Image](https://github.com/user-attachments/assets/062cf200-f5c2-43f0-81f8-7a9c8e55e696)
+![Image](https://github.com/user-attachments/assets/6460c369-9865-45cf-9dce-32fd8615e1f4)
+![Image](https://github.com/user-attachments/assets/83ff4d8e-250b-4024-ad21-305a23e15d85)
+![Image](https://github.com/user-attachments/assets/9853e80c-ea8f-42ba-bfa7-a8edf0308da2)
